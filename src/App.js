@@ -3,6 +3,7 @@ import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import Home from "./containers/Home/Home";
 import Contact from "./containers/Contact/Contact";
 import Portfolio from "./containers/Portfolio/Portfolio";
+import "./App.css";
 
 
 
@@ -16,8 +17,8 @@ function App() {
           <Route path="/portfolio" component={Portfolio} />
         </Switch>
       </Router>
+      </div>
 
-    </div>
   );
 }
 
