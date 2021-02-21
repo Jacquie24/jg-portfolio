@@ -4,12 +4,14 @@ import Home from "./containers/Home/Home";
 import Contact from "./containers/Contact/Contact";
 import Portfolio from "./containers/Portfolio/Portfolio";
 import "./App.css";
+import Header from "./components/Header/Header";
 
 
 
 function App() {
   return (
     <div className="App">
+      <Header />
       <Router basename="/">
         <Switch>
           <Route exact path="/" component={Home} />
