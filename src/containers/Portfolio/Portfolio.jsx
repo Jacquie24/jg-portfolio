@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import Project from "../../components/Project/Project";
+import Wrapper from '../../Wrapper/Wrapper';
 
 
 const Portfolio = () => {
@@ -17,7 +18,33 @@ const Portfolio = () => {
             title: "Dog project",
             description: "This is my best puppy",
             link: "https://www.google.com"
-    }
+    },
+    {
+        image: "http://placekitten.com/g/200/300",
+        title: "Kitten project",
+        description: "This is my best kitty",
+        link: "https://www.github.com"
+
+},
+{
+    image: "http://placekitten.com/g/200/300",
+        title: "Dog project",
+        description: "This is my best puppy",
+        link: "https://www.google.com"
+},
+{
+    image: "http://placekitten.com/g/200/300",
+    title: "Kitten project",
+    description: "This is my best kitty",
+    link: "https://www.github.com"
+
+},
+{
+image: "http://placekitten.com/g/200/300",
+    title: "Dog project",
+    description: "This is my best puppy",
+    link: "https://www.google.com"
+}
     ]);
 
 
@@ -26,11 +53,12 @@ const Portfolio = () => {
         <div className="container">
 
             <h1 className="text-center">Portfolio</h1>
+            <Wrapper>
             {projects.map((project) => (            
             <Project  {...project}/>
             ))};
 
-            
+</Wrapper>
         </div>
     );
     
