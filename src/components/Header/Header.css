@@ -2,3 +2,8 @@
     background-color: #FFAD29ff;
     color: black;
 }
+
+.show>.dropdown-menu {
+    display: block;
+    position: absolute;
+  }
