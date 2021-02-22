@@ -3,9 +3,9 @@ import React from 'react';
 const Footer = () => {
     return (
         <div>
-            <nav class="navbar fixed-bottom navbar-light bg-light">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="/">Fixed bottom</a>
+            <nav className="navbar fixed-bottom">
+  <div className="container-fluid">
+    <p className="navbar-brand">Jacquie Gutierrez 2021</p>
   </div>
 </nav>
         </div>

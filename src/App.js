@@ -5,6 +5,7 @@ import Contact from "./containers/Contact/Contact";
 import Portfolio from "./containers/Portfolio/Portfolio";
 import "./App.css";
 import Header from "./components/Header/Header";
+import Footer from "./components/Footer/Footer";
 
 
 
@@ -19,6 +20,7 @@ function App() {
           <Route path="/portfolio" component={Portfolio} />
         </Switch>
       </Router>
+      <Footer />
       </div>
 
   );

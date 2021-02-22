@@ -1,0 +1,13 @@
+.navbar {
+    background-color: #FFAD29ff;
+    color: black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar-brand {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
