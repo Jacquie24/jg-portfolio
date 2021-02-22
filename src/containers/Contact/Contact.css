@@ -1,0 +1,42 @@
+a {
+    color: #FFFD98;
+} 
+  body {
+    /* Typography */
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: white;
+  
+    /* Visual */
+      margin: 0;  
+    
+    }
+    /* background-image: url("../imgs/ignasi_pattern_s.png"); */
+  
+  
+  html {
+    /* Positioning */
+    position: relative;
+  
+    /* Box-model */
+    min-height: 100%;
+  }
+  
+  /* add space for fixed nav */
+  main {
+    margin: 80px 0;
+  }
+  
+  /* create styles for use for all white main boxes */
+  .block {
+    background-color: #23395B;
+      
+    padding: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .block-header {
+    /* Typography */
+    color: #708DA3;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: bold;
+  }
