@@ -16,7 +16,9 @@ const Project = (props) => {
   <div className="card-body">
     <h5 className="card-title">{props.title}</h5>
     <p className="card-text">{props.description}</p>
-    <a href={props.link}>Live Link</a>       <a className="float-right" href={props.github}>GitHub repo</a>
+    <a href={props.link}>View deployed project</a>
+    <br></br>
+    <a className="float-right" href={props.github}>View GitHub repo</a>
   </div>
 </div>
 
