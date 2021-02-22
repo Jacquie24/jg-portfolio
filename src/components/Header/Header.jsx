@@ -20,20 +20,6 @@ const Header = () => {
         </li>
 
 
-<div className="btn-group">
-  <button type="button" className="btn btn-info dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-    Action
-  </button>
-  <ul className="dropdown-menu">
-    <li><a className="dropdown-item" href="https://github.com/Jacquie24">GitHub</a></li>
-    <li><a className="dropdown-item" href="www.linkedin.com/in/jacquie24">LinkedIn</a></li>
-    <li><a className="dropdown-item" href="../../../imgs/resume.pdf">View my resume</a></li>
-
-  </ul>
-</div>
-
-
-
       </ul>
 
     </div>
