@@ -1,12 +1,15 @@
 a {
     color: #FFFD98;
 } 
+
+a:hover {
+  color: #708DA3;
+}
+
   body {
-    /* Typography */
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     color: white;
   
-    /* Visual */
       margin: 0;  
     
     }

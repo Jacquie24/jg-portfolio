@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Contact.css";
-import resume from "../../imgs/resume.pdf";
+import resume from "../../imgs/jacquie-resume.pdf";
 
 const Contact = () => {
     return (
