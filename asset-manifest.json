@@ -1,19 +1,32 @@
 {
   "files": {
-    "main.js": "/jg-portfolio/static/js/main.a6cab4c5.chunk.js",
-    "main.js.map": "/jg-portfolio/static/js/main.a6cab4c5.chunk.js.map",
-    "runtime-main.js": "/jg-portfolio/static/js/runtime-main.828591b3.js",
-    "runtime-main.js.map": "/jg-portfolio/static/js/runtime-main.828591b3.js.map",
-    "static/js/2.48e468ab.chunk.js": "/jg-portfolio/static/js/2.48e468ab.chunk.js",
-    "static/js/2.48e468ab.chunk.js.map": "/jg-portfolio/static/js/2.48e468ab.chunk.js.map",
-    "static/js/3.27bdee67.chunk.js": "/jg-portfolio/static/js/3.27bdee67.chunk.js",
-    "static/js/3.27bdee67.chunk.js.map": "/jg-portfolio/static/js/3.27bdee67.chunk.js.map",
+    "main.css": "/jg-portfolio/static/css/main.168eb59e.chunk.css",
+    "main.js": "/jg-portfolio/static/js/main.4bf8a922.chunk.js",
+    "main.js.map": "/jg-portfolio/static/js/main.4bf8a922.chunk.js.map",
+    "runtime-main.js": "/jg-portfolio/static/js/runtime-main.21abf88a.js",
+    "runtime-main.js.map": "/jg-portfolio/static/js/runtime-main.21abf88a.js.map",
+    "static/js/2.bf85adbf.chunk.js": "/jg-portfolio/static/js/2.bf85adbf.chunk.js",
+    "static/js/2.bf85adbf.chunk.js.map": "/jg-portfolio/static/js/2.bf85adbf.chunk.js.map",
+    "static/js/3.6eac29df.chunk.js": "/jg-portfolio/static/js/3.6eac29df.chunk.js",
+    "static/js/3.6eac29df.chunk.js.map": "/jg-portfolio/static/js/3.6eac29df.chunk.js.map",
     "index.html": "/jg-portfolio/index.html",
-    "static/js/2.48e468ab.chunk.js.LICENSE.txt": "/jg-portfolio/static/js/2.48e468ab.chunk.js.LICENSE.txt"
+    "static/css/main.168eb59e.chunk.css.map": "/jg-portfolio/static/css/main.168eb59e.chunk.css.map",
+    "static/js/2.bf85adbf.chunk.js.LICENSE.txt": "/jg-portfolio/static/js/2.bf85adbf.chunk.js.LICENSE.txt",
+    "static/media/Jacquie head shot.591ed70c.jpg": "/jg-portfolio/static/media/Jacquie head shot.591ed70c.jpg",
+    "static/media/Literate-Listener.00c0e33f.png": "/jg-portfolio/static/media/Literate-Listener.00c0e33f.png",
+    "static/media/bird brains cover pic.31d87212.png": "/jg-portfolio/static/media/bird brains cover pic.31d87212.png",
+    "static/media/budget-tracker.1787e06a.png": "/jg-portfolio/static/media/budget-tracker.1787e06a.png",
+    "static/media/day-planner.897501d2.png": "/jg-portfolio/static/media/day-planner.897501d2.png",
+    "static/media/eat-da-burger-pic.548cd7fe.png": "/jg-portfolio/static/media/eat-da-burger-pic.548cd7fe.png",
+    "static/media/employee-directory.377544e2.png": "/jg-portfolio/static/media/employee-directory.377544e2.png",
+    "static/media/jacquie-resume.1bab280e.pdf": "/jg-portfolio/static/media/jacquie-resume.1bab280e.pdf",
+    "static/media/App.css": "/jg-portfolio/static/media/sunrise.42462bdd.jpg",
+    "static/media/weather-dashboard.87268290.png": "/jg-portfolio/static/media/weather-dashboard.87268290.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.828591b3.js",
-    "static/js/2.48e468ab.chunk.js",
-    "static/js/main.a6cab4c5.chunk.js"
+    "static/js/runtime-main.21abf88a.js",
+    "static/js/2.bf85adbf.chunk.js",
+    "static/css/main.168eb59e.chunk.css",
+    "static/js/main.4bf8a922.chunk.js"
   ]
 }
