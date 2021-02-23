@@ -12,8 +12,8 @@ const Contact = () => {
                         <form className="block form-horizontal">
                             <h1 className="block-header">Contact Info for Jacquie</h1>
                             <hr></hr>
-                            <h5 className="info-header mt-3">Location:</h5>
-                            <p>Hilton Head, SC</p>
+                            <h5 className="info-header mt-3"><i class="fa fa-map-marker" aria-hidden="true"></i>  Location:</h5>
+                            <p>Hilton Head Island, SC</p>
                             <h5 className="info-header mt-3"><i class="fa fa-phone-square" aria-hidden="true"></i>  Cellphone:</h5>
                             <p>(310) 617-5984</p>
                             <h5 className="info-header mt-3"><i class="fa fa-envelope" aria-hidden="true"></i>  Email Me:</h5>

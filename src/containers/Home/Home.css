@@ -26,7 +26,7 @@ body {
   /* create styles for use for all white main boxes */
   .block {
     background-color: #23395B;
-      
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999; 
     padding: 30px;
     margin-bottom: 30px;
   }

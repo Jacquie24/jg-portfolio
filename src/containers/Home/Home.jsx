@@ -7,7 +7,7 @@ const Home = () => {
         <div>
             <main className="container">
                 <section className="row">
-                    <div className="col-md-2"></div>
+                    <div className="col-md-3"></div>
                     <div className="col-md-8">
                         <article className="block">
                             <h1 className="block-header">About Me</h1>
