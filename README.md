@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# JG Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+The goal of this project was to create three linking web pages utilizing the Router feature of React.  The pages were built using React's reusable components for the project cards, navbar, and footer.  
 
-## Available Scripts
+The finished pages feature a navigation bar at the top containing three navigation links.  Each page features different content, but they bear similar color schemes and layouts, which gives the viewer a feeling of continuity.
 
-In the project directory, you can run:
+To see the final result, you can view the webpages live at [jg-portfolio](https://jacquie24.github.io/jg-portfolio/).
 
-### `npm start`
+## Table of Contents
+- [Description](#Description)
+- [Usage](#Usage)
+- [License](#License)
+- [Installation](#Installation)
+- [References](#References)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Usage
+When the user clicks on the link, the page defaults to the About Me screen as the home page.  At the top are three navigation links, titled "About," "Portfolio," and "Contact."  
+"Portfolio" will take the user to the Portfolio screen to view my projects.![Portfolio page](./src/imgs/portfolio-page3.png) 
+"Contact" will take the user to the Contact screen, where there is a fillable form to provide contact information. ![Contact](./src/imgs/contact-page.png)
+"About" brings the user back to the About Me screen.  ![About](./src/imgs/about-me.png)
+In addition, by clicking on my name "Jacquie Gutierrez" in the upper left hand corner, it will bring the user to the About Me (default home page).
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Installation
+To view this webpage and any others I've designed, check out my GitHub page at [Jacquie24](https://github.com/Jacquie24?tab=repositories).  
 
-### `npm test`
+## References
+* [React Router documentation on HashRouter](https://reactrouter.com/web/api/HashRouter)
+* [Peter Colella's React Images Repo](https://github.com/petercolella/react-images)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+This page is using the [MIT](assets/license.txt) license.
