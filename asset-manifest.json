@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jg-portfolio/static/css/main.168eb59e.chunk.css",
-    "main.js": "/jg-portfolio/static/js/main.069ddf9e.chunk.js",
-    "main.js.map": "/jg-portfolio/static/js/main.069ddf9e.chunk.js.map",
+    "main.js": "/jg-portfolio/static/js/main.0bea719a.chunk.js",
+    "main.js.map": "/jg-portfolio/static/js/main.0bea719a.chunk.js.map",
     "runtime-main.js": "/jg-portfolio/static/js/runtime-main.21abf88a.js",
     "runtime-main.js.map": "/jg-portfolio/static/js/runtime-main.21abf88a.js.map",
     "static/js/2.3ea2d629.chunk.js": "/jg-portfolio/static/js/2.3ea2d629.chunk.js",
@@ -14,6 +14,7 @@
     "static/js/2.3ea2d629.chunk.js.LICENSE.txt": "/jg-portfolio/static/js/2.3ea2d629.chunk.js.LICENSE.txt",
     "static/media/Jacquie head shot.591ed70c.jpg": "/jg-portfolio/static/media/Jacquie head shot.591ed70c.jpg",
     "static/media/Literate-Listener.00c0e33f.png": "/jg-portfolio/static/media/Literate-Listener.00c0e33f.png",
+    "static/media/Spook-Me-home.90308cc5.png": "/jg-portfolio/static/media/Spook-Me-home.90308cc5.png",
     "static/media/bird brains cover pic.31d87212.png": "/jg-portfolio/static/media/bird brains cover pic.31d87212.png",
     "static/media/budget-tracker.1787e06a.png": "/jg-portfolio/static/media/budget-tracker.1787e06a.png",
     "static/media/day-planner.897501d2.png": "/jg-portfolio/static/media/day-planner.897501d2.png",
@@ -27,6 +28,6 @@
     "static/js/runtime-main.21abf88a.js",
     "static/js/2.3ea2d629.chunk.js",
     "static/css/main.168eb59e.chunk.css",
-    "static/js/main.069ddf9e.chunk.js"
+    "static/js/main.0bea719a.chunk.js"
   ]
 }
