@@ -34,7 +34,7 @@ const Portfolio = () => {
         {
             src: spookMe,
             title: "Spook Me",
-            description: "Seek out haunted places in your area or post a haunted sighting of your own",
+            description: "Seek out haunted places to visit and share your own spooky sightings",
             link: "https://spook-me.herokuapp.com/",
             github: "https://github.com/Jacquie24/spook-me"
         },
