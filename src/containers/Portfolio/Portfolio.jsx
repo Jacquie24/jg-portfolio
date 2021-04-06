@@ -8,6 +8,7 @@ import empPic from "../../imgs/employee-directory.png";
 import BudgetPic from "../../imgs/budget-tracker.png";
 import dayPic from "../../imgs/day-planner.png";
 import weatherPic from "../../imgs/weather-dashboard.png";
+import spookMe from "../../imgs/Spook-Me-home.png";
 
 const Portfolio = () => {
 
@@ -21,14 +22,6 @@ const Portfolio = () => {
             github: "https://github.com/Jacquie24/literate-listener"
 
         },
-
-        {
-            src: burgerPic,
-            title: "Eat Da Burger",
-            description: "Add a burger to the list, choose to devour it or delete the burger",
-            link: "https://shielded-falls-19006.herokuapp.com/",
-            github: "https://github.com/Jacquie24/eat-da-burger"
-        },
         {
             src: birdPic,
             title: "Bird Brains",
@@ -36,6 +29,22 @@ const Portfolio = () => {
             link: "https://bird-brains.herokuapp.com/",
             github: "https://github.com/Jacquie24/bird-brains"
 
+        },
+
+        {
+            src: spookMe,
+            title: "Spook Me",
+            description: "Seek out haunted places in your area or post a haunted sighting of your own",
+            link: "https://spook-me.herokuapp.com/",
+            github: "https://github.com/Jacquie24/spook-me"
+        }
+
+        {
+            src: burgerPic,
+            title: "Eat Da Burger",
+            description: "Add a burger to the list, choose to devour it or delete the burger",
+            link: "https://shielded-falls-19006.herokuapp.com/",
+            github: "https://github.com/Jacquie24/eat-da-burger"
         },
         {
             src: empPic,
