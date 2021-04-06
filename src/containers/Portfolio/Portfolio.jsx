@@ -37,7 +37,7 @@ const Portfolio = () => {
             description: "Seek out haunted places in your area or post a haunted sighting of your own",
             link: "https://spook-me.herokuapp.com/",
             github: "https://github.com/Jacquie24/spook-me"
-        }
+        },
 
         {
             src: burgerPic,
